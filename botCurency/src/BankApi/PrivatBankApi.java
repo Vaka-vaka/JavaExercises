@@ -1,5 +1,5 @@
 /**
- * botCurrecy. Java.
+ * botCurrency. Java.
  *
  * @autor Valentin Mozul
  * @version from 20.09.21
@@ -9,7 +9,7 @@ package BankApi;
 
 import java.net.URI;
 import java.text.SimpleDateFormat;
-import java.util.Date;
+import java.util.*;
 
 public class PrivatBankApi {
 
