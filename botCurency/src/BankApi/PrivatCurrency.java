@@ -1,5 +1,5 @@
 /**
- * botCurrecy. Java.
+ * botCurrency. Java.
  *
  * @autor Valentin Mozul
  * @version from 20.09.21
